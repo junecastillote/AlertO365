@@ -1,0 +1,11 @@
+C:\Users\castilti\OneDrive\GitHub\AlertO365_1.1\bin\Release\AlertO365.exe.config
+C:\Users\castilti\OneDrive\GitHub\AlertO365_1.1\bin\Release\AlertO365.exe
+C:\Users\castilti\OneDrive\GitHub\AlertO365_1.1\bin\Release\AlertO365.pdb
+C:\Users\castilti\OneDrive\GitHub\AlertO365_1.1\obj\Release\AlertO365.vbprojResolveAssemblyReference.cache
+C:\Users\castilti\OneDrive\GitHub\AlertO365_1.1\obj\Release\AlertO365.exe
+C:\Users\castilti\OneDrive\GitHub\AlertO365_1.1\obj\Release\AlertO365.pdb
+C:\Users\castilti\OneDrive\GitHub\AlertO365\bin\Release\AlertO365.exe.config
+C:\Users\castilti\OneDrive\GitHub\AlertO365\obj\Release\AlertO365.exe
+C:\Users\castilti\OneDrive\GitHub\AlertO365\obj\Release\AlertO365.pdb
+C:\Users\castilti\OneDrive\GitHub\AlertO365\bin\Release\AlertO365.exe
+C:\Users\castilti\OneDrive\GitHub\AlertO365\bin\Release\AlertO365.pdb
